@@ -117,10 +117,10 @@ And then build the app
 
 `$ npx tauri build`
 
+# Contributing
+
+Check the CONTRIBUTING.md file
+
 ---
 
 [![A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/ohf-project.png)](https://www.openhomefoundation.org/)
-
-# Contributing
-
-Check the CONTRIBUTING.md file.
